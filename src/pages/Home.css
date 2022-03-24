@@ -1,0 +1,43 @@
+:root{
+    --ion-background-color:#FFFFFF;
+    --ion-text-color: #FFFFFF;
+    --ion-font-family:Calibri;
+}
+
+ion-tab-bar, ion-tab-button{
+    background-color: white;
+    font-size: small;
+    --ion-text-color: #FFFFFF;
+   }
+   
+   ion-icon{
+     color: 	#6F2DA8;
+   }
+   .subtitle{
+       font-size:xx-large;
+       background-color: #6F2DA8;
+       text-align: center;
+       color: #FFFFFF!important
+   }
+   .balance{
+       background-color: #6F2DA8;
+       text-align: center;
+       font-size: 16px;
+       color: #FFFFFF!important
+   }
+   .bal{
+    background-color: #6F2DA8;
+   }
+   .kahita{
+       background-color: #6F2DA8;
+        padding: 30px;
+   }
+   .balcred{
+    font-size: x-large;
+    background-color: #6F2DA8;
+    font-size: 16px;
+    color: #FFFFFF!important
+   }
+   .services{
+    color: #6F2DA8;
+   }

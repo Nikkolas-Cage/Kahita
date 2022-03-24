@@ -1,0 +1,20 @@
+:root{
+    --ion-background-color:#FFFFFF;
+    --ion-text-color: #FFFFFF;
+    --ion-font-family:Calibri;
+}
+.wallet{
+    background-color: #6F2DA8;
+}
+.extras{
+   color: #6F2DA8;
+}
+.card{
+    background-color:  #6F2DA8; 
+}
+.subtitle{
+    color:#FFFFFF;
+}
+.transaction{
+    color:#FFFFFF;
+}
